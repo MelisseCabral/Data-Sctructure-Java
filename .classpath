@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01 - BubbleSort, InsertionSort and SelectionSort /src"/>
+	<classpathentry kind="src" path="02 - Dividir to Conquer/src"/>
+	<classpathentry kind="src" path="03 - Counting Sort/src"/>
+	<classpathentry kind="src" path="04 - CombSort and GnomeSort/src"/>
+	<classpathentry kind="src" path="06 - Single LinkedList/src"/>
+	<classpathentry kind="src" path="07 - Linked Double Stack Recursive/src"/>
+	<classpathentry kind="src" path="08 - Binary Search Tree/src"/>
+	<classpathentry kind="src" path="09 - Extended LinkedList/src"/>
+	<classpathentry kind="src" path="10 - AVL Tree/src"/>
+	<classpathentry kind="src" path="11 - Heap/src"/>
+	<classpathentry kind="src" path="12 - SkipList/src"/>
+	<classpathentry kind="src" path="13 - HashTable/src"/>
+	<classpathentry kind="src" path="14 - B Tree/src"/>
+	<classpathentry kind="src" path="15 - RB Tree/src"/>
+	<classpathentry kind="src" path="Prova-QuickSelect-Reposicao-environment/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-ArvorePV-environment/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-ArvorePV-environment/src/test/java"/>
+	<classpathentry kind="src" path="Roteiro-Heap-environment-T3/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-Heap-environment-T3/src/test/java"/>
+	<classpathentry kind="src" path="Roteiro-Linked-list-abordagem-iterativa-environment/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-Linked-list-abordagem-iterativa-environment/src/test/java"/>
+	<classpathentry kind="src" path="Roteiro-Linked-list-abordagem-iterativa-environment/target/LEDA-ROTEIRO6/src"/>
+	<classpathentry kind="src" path="Roteiro-Linked-ordenada-com-comparator-environment/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-OrdenacaoPorComparacao-I-environment-T3/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-OrdenacaoPorComparacao-I-environment-T3/src/test/java"/>
+	<classpathentry kind="src" path="Roteiro-OrdenacaoPorComparacao-II-environment-T3/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-OrdenacaoPorComparacao-II-environment-T3/src/test/java"/>
+	<classpathentry kind="src" path="Roteiro-SkipList-environment-T1_T2/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-SkipList-environment-T1_T2/src/test/java"/>
+	<classpathentry kind="src" path="Roteiro-SkipList-environment-T3/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-SkipList-environment-T3/src/test/java"/>
+	<classpathentry kind="src" path="Roteiro-TabelaHash-environment-T3/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-TabelaHash-environment-T3/src/test/java"/>
+	<classpathentry kind="src" path="Roteiro-Vetor-Pilha-Fila-environment-t3/src/main/java"/>
+	<classpathentry kind="src" path="Roteiro-Vetor-Pilha-Fila-environment-t3/src/test/java"/>
+	<classpathentry kind="lib" path="Prova-QuickSelect-Reposicao-environment/target/submission-1.0.jar"/>
+	<classpathentry kind="lib" path="Roteiro-Linked-list-abordagem-iterativa-environment/target/submission-1.0.jar"/>
+	<classpathentry kind="lib" path="Roteiro-OrdenacaoPorComparacao-I-environment-T3/target/submission-1.0.jar"/>
+	<classpathentry kind="lib" path="Roteiro-OrdenacaoPorComparacao-II-environment-T3/target/submission-1.0.jar"/>
+	<classpathentry kind="lib" path="Roteiro-Vetor-Pilha-Fila-environment-t3/lib/jgoodies-common-javadoc.jar"/>
+	<classpathentry kind="lib" path="Roteiro-Vetor-Pilha-Fila-environment-t3/lib/jgoodies-common-sources.jar"/>
+	<classpathentry kind="lib" path="Roteiro-Vetor-Pilha-Fila-environment-t3/lib/jgoodies-common.jar"/>
+	<classpathentry kind="lib" path="Roteiro-Vetor-Pilha-Fila-environment-t3/lib/jgoodies-forms-javadoc.jar"/>
+	<classpathentry kind="lib" path="Roteiro-Vetor-Pilha-Fila-environment-t3/lib/jgoodies-forms-sources.jar"/>
+	<classpathentry kind="lib" path="Roteiro-Vetor-Pilha-Fila-environment-t3/lib/jgoodies-forms.jar"/>
+	<classpathentry kind="lib" path="Roteiro-Vetor-Pilha-Fila-environment-t3/target/submission-1.0.jar"/>
+	<classpathentry kind="output" path="01 - BubbleSort, InsertionSort and SelectionSort /bin"/>
+</classpath>
